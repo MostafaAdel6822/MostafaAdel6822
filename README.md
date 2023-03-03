@@ -1,6 +1,6 @@
-[![MasterHead](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)]
+![MasterHead](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm Mostafa Adel</h1>
-<h3 align="center">Computer science engineering student at the German University in Cairo..</h3>
+<h3 align="center">Computer science engineering student at the German University in Cairo.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaadel6822&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaadel6822" /> </p>
 
