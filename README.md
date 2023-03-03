@@ -1,4 +1,4 @@
-![MasterHead](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)
+![MasterHead](https://gifdb.com/images/high/the-matrix-system-coding-wroz02cv91yr0hha.webp)
 <h1 align="center">Hi 👋, I'm Mostafa Adel</h1>
 <h3 align="center">Computer science engineering student at the German University in Cairo.</h3>
 
