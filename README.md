@@ -1,7 +1,6 @@
-[![MasterHead](https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)]
+[![MasterHead](https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif)]
 <h1 align="center">Hi 👋, I'm Mostafa Adel</h1>
 <h3 align="center">Computer science engineering student at the German University in Cairo..</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaadel6822&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaadel6822" /> </p>
 
@@ -17,10 +16,11 @@
 
 - 📫 How to reach me **mostafa.adel6822@gmail.com**
 
-- ⚡ Fun fact **I**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mostafa-el-sawy-a4a1401ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-el-sawy-a4a1401ba" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21328315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21328315" height="30" width="40" /></a>
+<a href="https://instagram.com/m0.ssx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0.ssx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mostafa_adel6822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostafa_adel6822" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mostafa6822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafa6822" height="30" width="40" /></a>
 </p>
