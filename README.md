@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaadel6822" alt="mostafaadel6822" /></a> </p>
 
-- 🔭 I’m currently working on [DatabaseEngine](https://github.com/ZeyadAG/database-engine)
+- 🔭 I’m currently developing a [DatabaseEngine](https://github.com/ZeyadAG/database-engine)
 
 - 🌱 I’m currently learning **Docker, Bash Scripting**
 
@@ -22,7 +22,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mostafa-el-sawy-a4a1401ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa-el-sawy-a4a1401ba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21328315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21328315" height="30" width="40" /></a>
-<a href="https://instagram.com/m0.ssx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m0.ssx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mostafa_adel6822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mostafa_adel6822" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mostafa6822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafa6822" height="30" width="40" /></a>
 </p>
