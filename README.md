@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafaadel6822" alt="mostafaadel6822" /></a> </p>
 
-- 🔭 I’m currently working on [expressBookReviews](https://github.com/MostafaAdel6822/expressBookReviews)
+- 🔭 I’m currently working on [DatabaseEngine](https://github.com/ZeyadAG/database-engine)
 
-- 🌱 I’m currently learning **Node.js, Docker, Bash Scripting**
+- 🌱 I’m currently learning **Docker, Bash Scripting**
+
+- 📚 I'm currently reading **Head First Design Patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MostafaAdel6822?tab=repositories](https://github.com/MostafaAdel6822?tab=repositories)
 
